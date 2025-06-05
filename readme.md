@@ -1,11 +1,12 @@
 # Moyo header
+
 Create an HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
 
 The page should match the design Pixel Perfect: all the sizes, colors and distances MUST be the same as on the design.
 
 > Here are the [Layout Tasks Instructions](https://mate-academy.github.io/layout_task-guideline)
 
-## Requirements:
+## Requirements
 
 - reset browser default margins
 - use [Roboto font](https://fonts.google.com/specimen/Roboto): select ONLY **roman** style, **medium (500)** weight and **normal** width for embedding. **THIS STEP IS IMPORTANT, OR YOUR AUTO TEST MAY FAIL. Take a look at the image at the end of the Readme.**
